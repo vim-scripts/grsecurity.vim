@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2479
+
+This is a syntax definition for the grsecurity policy (/etc/grsec/policy). Basic syntax highlighting of the policy file and folding works at the moment.
+
+Screenshot: http://picasaweb.google.com/lh/photo/Le_YL0dQt59AlPluaVUwNw
+
+Mercurial Repository: http://www.bitbucket.org/lobo/grsecurityvim/
+You can get the development version via mercurial: hg clone https://lobo@bitbucket.org/lobo/grsecurityvim/
+
+Policy language documentation: http://www.grsecurity.net/~spender/newDoc.pdf
